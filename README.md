@@ -1,1 +1,2 @@
-# calculator-repo
+# calculator
+Indulge in the mesmerizing allure of a beautifully crafted calculator, meticulously designed. Prepare to be captivated by its aesthetic charm, as every detail has been thoughtfully considered to evoke a sense of admiration. The seamless blend of form and function will undoubtedly leave you enamored, making it a delightful experience for both the eyes and the user. Immerse yourself in the exquisite world of this calculator's design, where simplicity meets sophistication, and functionality meets visual appeal.
